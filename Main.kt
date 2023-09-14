@@ -11,5 +11,5 @@ fun main() {
     fun cidade(cidade: String): String {
         return cidade
     }
-    println(cidade("Santa Maria"))
+    println(cidade("Santa Maria   ").uppercase().trim())
 }
