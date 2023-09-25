@@ -12,4 +12,5 @@ fun main() {
         return cidade
     }
     println(cidade("Santa Maria   ").uppercase().trim())
+    
 }
